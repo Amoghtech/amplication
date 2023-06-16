@@ -11,7 +11,7 @@ export enum EnumGitOrganizationType {
 }
 
 export enum EnumGitProvider {
-  Github = "Github",
+  Github = "GitHub",
   Bitbucket = "Bitbucket",
 }
 
